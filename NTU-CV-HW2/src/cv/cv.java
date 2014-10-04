@@ -287,7 +287,7 @@ public class cv {
 		
 		 //System.out.println("file exist:"+f.exists());
 		
-		 FileInputStream in = null;
+		 FileInputStream in = null;	
 		 in = new FileInputStream(fileName);
 		 
 		 int c;
